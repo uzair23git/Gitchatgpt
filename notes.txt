@@ -1,1 +1,2 @@
 Day 1: Learning Git
+Day 2: Practicing branches
